@@ -2,6 +2,7 @@
 	<head></head>
 	<body>
 		<h1>Mi primera pagina web</h1>
+		<h2> hola como estas</h2>
 	
 	</body>
 
