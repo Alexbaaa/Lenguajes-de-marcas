@@ -1,0 +1,39 @@
+
+header{
+    margin: 1px;
+    height: 70px;
+    background-color: darkgoldenrod;
+    padding: 1em;
+}
+img{
+    float: right;
+    width: 10%;
+    height: 85%;
+    padding: 1em;
+}
+h1{
+    float: left;
+    width: 60%;
+    border: 1px solid white;
+}
+#uno{
+    width: 71%;
+    float: left;
+    margin: 1px;
+    background-color: rgb(94, 87, 145);
+    padding: 1em;
+}
+#dos{
+    float: right;
+    width: 23%;
+    margin: 1px;
+    background-color: rgb(78, 134, 134);
+    padding: 1em;
+}
+footer{
+    clear: both;
+    height: 50px;
+    margin: 1px;
+    background-color: grey;
+    padding: 1em;
+}
