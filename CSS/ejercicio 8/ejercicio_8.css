@@ -1,0 +1,16 @@
+p{
+    border: 5px solid;
+}
+
+#p1{
+    border-color: blue;
+    margin: 0px;
+}
+#p2{
+    border-color: green;
+    margin: 5px;
+}
+#p3{
+    border-color: goldenrod;
+    margin: 0px;
+}
