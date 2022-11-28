@@ -5,12 +5,19 @@ p{
 #p1{
     border-color: blue;
     margin: 0px;
+    padding: 0px;
 }
 #p2{
     border-color: green;
     margin: 5px;
+    padding: 5px;
 }
 #p3{
     border-color: goldenrod;
+    margin: 0px;
+    padding: 20px;
+}
+body{
+
     margin: 0px;
 }
