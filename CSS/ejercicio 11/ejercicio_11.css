@@ -1,0 +1,16 @@
+ol {
+    width: 500px;
+    list-style-type: lower-roman;
+    text-indent: 3em;
+}
+
+ul {
+    text-indent: 1em;
+    width: 500px;
+    list-style-image: url('img3.png');
+    list-style-position: inside;
+}
+
+
+
+
