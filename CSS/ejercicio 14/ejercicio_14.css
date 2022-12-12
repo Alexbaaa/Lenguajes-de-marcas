@@ -1,0 +1,27 @@
+header{
+    background-color: red;
+    width: 100%;
+    text-align: center;
+    padding: 2rem;
+}
+#titulo{
+    font-size: 3em;
+}
+nav{
+    width: 20%;
+    background-color: rgb(148, 148, 148);
+    padding:1%;
+    float: left;
+}
+#vertical{
+    list-style-type: none;
+    
+}
+li{
+    background-color: white;
+}
+article{
+    float: right;
+    background-color: lightblue;
+    width: 75%;
+}
