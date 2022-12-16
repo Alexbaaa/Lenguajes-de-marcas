@@ -1,0 +1,61 @@
+#tarjeta{
+
+    width: 455px;
+    height: 200px;
+    background-color: rgba(245, 245, 241, 0.733);
+    
+}
+h1{
+    font-size: 1.2em;
+    position: relative;
+    left: 20%;
+    right: 20%;
+
+}
+h2{
+    font-size: 0.8em;
+    position: relative;
+    left: 78%;
+    right: 8%;
+}
+img{
+
+    width: 80%;
+    padding: 10%;
+    
+}
+#imagen{
+    width: 250px;
+    height: 200px;
+    float: left;
+}
+#contenido{
+    width: 200px;
+    height: 200px;
+    float: right;
+}
+#cancelar{
+
+    background-color: white;
+    border-radius: 18%;
+    position: relative;
+    right: 7%;
+    left: 86%;
+    top: 5%;
+    bottom: 90%;
+    
+}
+#lista{
+
+    height: 105px;
+}
+li{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 12px;
+    background-color: rgb(180, 103, 48);
+    margin-left: 0.5em;
+}
+
