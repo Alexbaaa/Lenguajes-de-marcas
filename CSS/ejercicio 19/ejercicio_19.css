@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+article{
+    width: 800px;
+    margin: 0 auto;
+}
+#cabezera{
+    width: 800px;
+    background-color: rgb(55, 55, 68);
+    margin-top: 0px;
+    
+}
+#titulo{
+
+    padding-left: 15em;
+    padding-right: 7em;
+}
+#contenido{
+
+    width: 800px;
+    background-color: rgb(55, 55, 68);
+    
+}
+
+h1{
+    font-size: 1.4em;
+}
