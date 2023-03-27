@@ -1,0 +1,59 @@
+body{
+
+    display: grid;
+    grid-template: 
+    "header header " 200px
+    "article article " 100px
+    "nav nav" 100px
+    "aside aside " 100px
+    "footer footer " 200px /
+    30% 70% 
+    ;
+    
+}
+
+
+
+.header{
+    grid-area: header;
+    width: 100%;
+    background-color: brown;
+}
+.nav{
+    grid-area: nav;
+    width: 100%;
+    background-color: blue;
+}
+.article{
+    grid-area: article;
+    width: 100%;
+    background-color: aqua;
+}
+.aside{
+    
+    grid-area: aside;
+    width: 100%;
+    background-color: pink;
+}
+.footer{
+    grid-area: footer;
+    width: 100%;
+    background-color: chocolate;
+}
+
+@media (min-width:600px) {
+    body{
+
+        display: grid;
+        grid-template: 
+        "header header header" 200px
+        "nav article article" 100px
+        "nav article article" 100px
+        "aside article article" 100px
+        "footer footer footer" 200px /
+        30% 30% 40%
+        ;
+    
+    }
+}
+

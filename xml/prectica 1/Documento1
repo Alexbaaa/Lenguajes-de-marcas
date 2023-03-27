@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<curriculum>
+  <datos_personales>
+    <nombre>Alejandro</nombre>
+    <apellidos>Aguilera Lopez</apellidos>
+    <fecha_nacimiento>31/03/2001</fecha_nacimiento>
+    <lugar_nacimiento>Granada</lugar_nacimiento>
+    <nacionalidades>
+      <nacionalidad>Portugesa</nacionalidad>
+    </nacionalidades>
+    <numero_identificacion>712345678Z</numero_identificacion>
+    <foto>foto.png</foto>
+  </datos_personales>
+  <datos_contacto>
+    <tipo_via>Carretera</tipo_via>
+    <nombre_via>Los  Canarios</nombre_via>
+    <numero>33</numero>
+    <portal>3</portal>
+    <escalera>3</escalera>
+    <piso>3</piso>
+    <puerta>A</puerta>
+    <codigo_postal>18198</codigo_postal>
+    <pais>Portugal</pais>
+    <email>alejandrillo@gmail.com</email>
+    <telefono_movil>342819294</telefono_movil>
+    <telefono_fijo>999546533</telefono_fijo>
+  </datos_contacto>
+  <datos_contacto_adicionales>
+    <pagina_web>las increibles aventuras de alejandrillo</pagina_web>
+    <redes_sociales>
+      <red_social>alejandrillo45</red_social>
+    </redes_sociales>
+  </datos_contacto_adicionales>
+  <formacion_academica>
+    <estudio>
+      <nombre>daw</nombre>
+      <lugar>pamplona</lugar>
+      <fecha_inicio>12/04/2021</fecha_inicio>
+      <fecha_fin>12/04/2022</fecha_fin>
+    </estudio>
+  </formacion_academica>
+  <idiomas>
+    <idioma>
+      <nombre>Ingles</nombre>
+      <expresion_oral>Muy  bunea</expresion_oral>
+      <comprension_oral>Muy buena</comprension_oral>
+      <expresion_escrita> Demasiado Buena</expresion_escrita>
+      <comprension_escrita>Hiper mega Buena</comprension_escrita>
+      <titulo>C3</titulo>
+      <nivel_titulo>Alto</nivel_titulo>
+    </idioma>
+  </idiomas>
+  <experiencia_laboral>
+    <experiencia>
+      <lugar>Mi casa</lugar>
+      <puesto>limpiador</puesto>
+      <fecha_inicio>12/04/2021</fecha_inicio>
+      <fecha_fin>12/04/2022</fecha_fin>
+    </experiencia>
+  </experiencia_laboral>
+  <competencias>
+    <competencia>
+      <nombre>imnovador</nombre>
+      <nivel>H3</nivel>
+    </competencia>
+  </competencias>
+  <datos_adicionales>
+    <aficiones>Ver animer</aficiones>
+    <disponibilidad_viajar>si</disponibilidad_viajar>
+    <vehiculo_propio>si</vehiculo_propio>
+    <licencias_conducir>
+      <licencia>B</licencia>
+    </licencias_conducir>
+  </datos_adicionales>
+</curriculum>
